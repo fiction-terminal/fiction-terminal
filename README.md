@@ -11,7 +11,7 @@
 
 ### 🔭 Current Project
 - 🔬 Building a complete **SOC Lab** using ELK, Wazuh, TheHive, Cortex, and Splunk.
-- 📡 Working on real-time threat detection using **custom parsers**.
+- 📡 ---------------------------------------.
 
 ---
 
@@ -24,9 +24,9 @@
 ---
 
 ### 📚 Certifications / Learning
-- [ ] OSCP (In Progress)
-- [x] TryHackMe & Hack The Box: Top 5%
-- [ ] MITRE ATT&CK Framework (L1)
+- [ ] -----------------
+- [x] TryHackMe: Top 5%
+- [ ] -----------------
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### 📫 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 mrfiction@example.com
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 📧 mrfiction
+- 🌐 [Portfolio](hts:/)
 
 ---
