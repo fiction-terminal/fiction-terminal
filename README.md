@@ -16,17 +16,22 @@
 ---
 
 ### 🧠 Skills
-- 🐍 Python for Pentesting
-- 🛡️ Web App Security (OWASP Top 10)
+- 🌏 Networking Configuration
+- ♻️ TCP/IP, Vlan, OSPF/EIGRP, VPN
+- 🔌 Routing, Switching, Firewall Management 
 - 📊 ELK Stack, Wazuh, Splunk
 - ⚙️ Bash, Linux, Nmap, Metasploit
+- 🐍 Python for Pentesting
+- 🛡️ Web App Security (OWASP Top 10)
+
+ 
 
 ---
 
 ### 📚 Certifications / Learning
-- [ ] -----------------
-- [x] TryHackMe: Top 5%
-- [ ] -----------------
+- [ ] CCNA/CCNP
+- [ ] SOC
+- [ ] Pentesting
 
 ---
 
