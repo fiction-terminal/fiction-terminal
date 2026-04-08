@@ -28,8 +28,8 @@
 
 ---
 
-### 📚 Certifications / Learning
-- [ ] CCNA/CCNP
+### 📚 Learning
+- [ ] CCNA/CCNP Networking
 - [ ] SOC
 - [ ] Pentesting
 
