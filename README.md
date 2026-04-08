@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Mr. Keshav Singh</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC Analyst | Penetration Tester</h3>
+<h3 align="center">Networking + Cybersecurity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fiction-terminal&label=Profile%20views&color=0e75b6&style=flat" alt="fiction-terminal" />
